@@ -56,3 +56,5 @@ Estrutura do Código
         jogar(): O loop principal do jogo.
 
     main(): A função principal que inicia o jogo e gerencia a seleção de tema e dificuldade.
+
+Fique a vontade para abrir um issues ou pull requests
