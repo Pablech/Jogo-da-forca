@@ -33,8 +33,6 @@ Comandos Especiais
 
     --sair: Encerra o jogo a qualquer momento.
 
-    --voltar: Volta para o menu anterior (dentro da seleção de temas).
-
 Estrutura do Código
 
     opcoes e temas: Listas e dicionários que contêm os temas e as palavras.
